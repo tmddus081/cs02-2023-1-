@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\cs02\009checkbox\bin\Debug\009checkbox.exe.config
+C:\Users\konyang\Desktop\cs02\009checkbox\bin\Debug\009checkbox.exe
+C:\Users\konyang\Desktop\cs02\009checkbox\bin\Debug\009checkbox.pdb
+C:\Users\konyang\Desktop\cs02\009checkbox\obj\Debug\009checkbox.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\cs02\009checkbox\obj\Debug\009checkbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\cs02\009checkbox\obj\Debug\_009checkbox.Form1.resources
+C:\Users\konyang\Desktop\cs02\009checkbox\obj\Debug\_009checkbox.Properties.Resources.resources
+C:\Users\konyang\Desktop\cs02\009checkbox\obj\Debug\009checkbox.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\cs02\009checkbox\obj\Debug\009checkbox.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\cs02\009checkbox\obj\Debug\009checkbox.exe
+C:\Users\konyang\Desktop\cs02\009checkbox\obj\Debug\009checkbox.pdb

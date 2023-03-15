@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\cs02\008 label\obj\Debug\008 label.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\cs02\008 label\obj\Debug\008 label.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\cs02\008 label\obj\Debug\_008_label.Form1.resources
+C:\Users\konyang\Desktop\cs02\008 label\obj\Debug\_008_label.Properties.Resources.resources
+C:\Users\konyang\Desktop\cs02\008 label\obj\Debug\008 label.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\cs02\008 label\obj\Debug\008 label.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\cs02\008 label\bin\Debug\008 label.exe.config
+C:\Users\konyang\Desktop\cs02\008 label\bin\Debug\008 label.exe
+C:\Users\konyang\Desktop\cs02\008 label\bin\Debug\008 label.pdb
+C:\Users\konyang\Desktop\cs02\008 label\obj\Debug\008 label.exe
+C:\Users\konyang\Desktop\cs02\008 label\obj\Debug\008 label.pdb

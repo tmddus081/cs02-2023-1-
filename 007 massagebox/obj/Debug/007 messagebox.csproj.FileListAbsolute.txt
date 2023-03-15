@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\cs02\007 massagebox\bin\Debug\007 massagebox.exe.config
+C:\Users\konyang\Desktop\cs02\007 massagebox\bin\Debug\007 massagebox.exe
+C:\Users\konyang\Desktop\cs02\007 massagebox\bin\Debug\007 massagebox.pdb
+C:\Users\konyang\Desktop\cs02\007 massagebox\obj\Debug\007 messagebox.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\cs02\007 massagebox\obj\Debug\007 messagebox.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\cs02\007 massagebox\obj\Debug\_007_massagebox.Form1.resources
+C:\Users\konyang\Desktop\cs02\007 massagebox\obj\Debug\_007_massagebox.Properties.Resources.resources
+C:\Users\konyang\Desktop\cs02\007 massagebox\obj\Debug\007 messagebox.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\cs02\007 massagebox\obj\Debug\007 messagebox.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\cs02\007 massagebox\obj\Debug\007 massagebox.exe
+C:\Users\konyang\Desktop\cs02\007 massagebox\obj\Debug\007 massagebox.pdb
