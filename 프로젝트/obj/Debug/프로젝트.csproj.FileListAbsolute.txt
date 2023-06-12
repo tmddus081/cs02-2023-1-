@@ -1,0 +1,11 @@
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\bin\Debug\프로젝트.exe.config
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\bin\Debug\프로젝트.exe
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\bin\Debug\프로젝트.pdb
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\obj\Debug\프로젝트.csproj.AssemblyReference.cache
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\obj\Debug\프로젝트.csproj.SuggestedBindingRedirects.cache
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\obj\Debug\프로젝트.Form1.resources
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\obj\Debug\프로젝트.Properties.Resources.resources
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\obj\Debug\프로젝트.csproj.GenerateResource.cache
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\obj\Debug\프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\obj\Debug\프로젝트.exe
+C:\Users\tmddu\Desktop\VP02_02\프로젝트\프로젝트\obj\Debug\프로젝트.pdb
